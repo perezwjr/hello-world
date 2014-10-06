@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Public Information
+This repository will contain public information and projects that are for display purposes only.
